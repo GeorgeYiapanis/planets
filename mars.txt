@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is venus!
+=======
+Cold and dry, but everything is my favourie colour.
+The two moons may be a problem for Wolfman.
+>>>>>>> b01095f9dc0e048dc22dc0f112be060d1f672647
