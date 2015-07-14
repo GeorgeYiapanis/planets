@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-This is venus!
-=======
 Cold and dry, but everything is my favourie colour.
 The two moons may be a problem for Wolfman.
-Added a different line to the local machine
->>>>>>> b01095f9dc0e048dc22dc0f112be060d1f672647
